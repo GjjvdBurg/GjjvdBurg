@@ -15,7 +15,8 @@
   [4](https://pypi.python.org/pypi/smartsvm/)) and **reproducible** 
   ([1](https://github.com/alan-turing-institute/rPSMF), 
   [2](https://github.com/alan-turing-institute/TCPDBench), 
-  [3](https://github.com/alan-turing-institute/CSV_Wrangling/))
+  [3](https://github.com/alan-turing-institute/CSV_Wrangling),
+  [4](https://github.com/alan-turing-institute/memorization)).
 
 * :art: In my spare time I enjoy writing open-source software and usually code 
   in Python.
