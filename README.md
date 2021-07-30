@@ -5,8 +5,9 @@
 * :seedling: I'm a Machine Learning researcher currently working as a postdoc 
   at [The Alan Turing Institute](https://turing.ac.uk).
 
-* :books: My research spans classification, sparsity, time series analysis, 
-  data wrangling, and [more](https://gertjanvandenburg.com/research/)!
+* :books: My research spans generative models, time series analysis, automated 
+  data wrangling, supervised learning and 
+  [more](https://gertjanvandenburg.com/research/)!
 
 * :ocean: I'm passionate about making my research **accessible** 
   ([1](https://github.com/alan-turing-institute/CleverCSV), 
