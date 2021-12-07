@@ -2,8 +2,7 @@
 
 * :bulb: My name is Gertjan van den Burg<sup>1</sup>
 
-* :seedling: I'm a Machine Learning researcher currently working as a postdoc 
-  at [The Alan Turing Institute](https://turing.ac.uk).
+* :seedling: I'm a Machine Learning researcher based in London, UK.
 
 * :books: My research spans generative models, time series analysis, automated 
   data wrangling, supervised learning and 
