@@ -2,10 +2,9 @@
 
 * :bulb: My name is Gertjan van den Burg<sup>1</sup>
 
-* :seedling: I'm a Machine Learning researcher based in London, UK.
+* :seedling: I'm an AI scientist based in London, UK.
 
-* :books: My research spans generative models, time series analysis, automated 
-  data wrangling, supervised learning and 
+* :books: My research spans LLM post-training, code generation, recommender systems, generative models, time series analysis, and 
   [more](https://gertjanvandenburg.com/research/)!
 
 * :ocean: I'm passionate about making my research **accessible** 
@@ -23,7 +22,6 @@
 
 * :mailbox: You can find me:
   - On my website: [gertjanvandenburg.com](https://gertjanvandenburg.com/)
-  - On Twitter: [https://twitter.com/GjjvdBurg](https://twitter.com/GjjvdBurg)
   - Or via email: [gertjanvandenburg@gmail.com](mailto:gertjanvandenburg@gmail.com)
 
 <sup>1</sup> "Gertjan" is not so easy to pronounce unless you know Dutch, so I 
